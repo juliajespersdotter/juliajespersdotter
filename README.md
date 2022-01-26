@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer student based in Malmö</h3>
 
 - 🌱 I’m currently learning **javascript frameworks**
-- 📚 I want to learn more about **backend languages**
+- 📚 I want to learn more about **Node.js**
 - ⌨️ I'm currently open to **internship opportunities**
 - 📫 How to reach me **julia.jespersdotter@gmail.com**
 
