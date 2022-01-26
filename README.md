@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **javascript frameworks**
 - 📚 I want to learn more about **Node.js**
 - ⌨️ I'm currently open to **internship opportunities**
-- 📫 How to reach me **julia.jespersdotter@gmail.com**
+- 📫 Email me: **julia.jespersdotter@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
