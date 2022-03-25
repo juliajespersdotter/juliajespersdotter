@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Julia Jespersdotter Högman</h1>
 <h3 align="center">A passionate front end developer student based in Malmö</h3>
 
-- 🌱 I’m currently learning **node.js**
+- 🌱 I’m currently learning **JavaScript frameworks**
 - 📚 I'm interested in pursuing **fullstack development**
 - ⌨️ I'm currently open to **internship opportunities**
 - 📫 Email me: **julia.jespersdotter@gmail.com**
