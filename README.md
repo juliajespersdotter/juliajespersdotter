@@ -8,24 +8,36 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Julia+Jespersdotter++&font=Fira%20Code&center=true&width=440&height=45&color=03ff00&vCenter=true&size=22"></a>
 </p>
 
+<samp>
 <h3 align="center">A passionate web developer student based in Malmö</h3>
 <hr/>
+</samp>
 
 <img src="https://github.com/juliajespersdotter/juliajespersdotter/blob/main/xenomorph.gif" width="250" align="right" alt="animated"/>
 
-- 📚 I'm interested in pursuing **fullstack/backend development**
-- ⌨️ I'm currently open to **internship opportunities**
-- 🎮 I love science fiction and horror games 
-- 📫 Email me: **julia.jespersdotter@gmail.com**
+<samp>
+- 📚 I'm interested in pursuing <b>fullstack/backend development</b><br>
+- ⌨️ I'm currently open to <b>internship opportunities</b><br>
+- 🎮 I love science fiction and horror games<br>
+</samp>
+  
+ <br>
 
-
+<samp>
 <h3 align="left">🌱 I’m currently learning ...</h3>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=03ff00&color=042a05)
 ![PHP](	https://img.shields.io/badge/PHP-35495E?style=for-the-badge&logo=php&logoColor=03ff00&color=042a05)
 
+</samp>
 
-## Languages and Tools
+<br>
+  
+<samp>
+<h3 align="left">💻 Languages and Tools</h3>
+<hr/>
+</samp>
+  
 ![HTML5](https://img.shields.io/badge/-HTML5-1d1f21?style=for-the-badge&logo=HTML5&logoColor=03ff00&color=042a05)
 ![CSS3](https://img.shields.io/badge/-CSS3-1d1f21?style=for-the-badge&logo=css3&logoColor=03ff00&color=042a05)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1d1f21?style=for-the-badge&logo=javascript&logoColor=03ff00&color=042a05)
@@ -40,8 +52,12 @@
 ![Adobe_Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-1d1f21?style=for-the-badge&logo=adobephotoshop&logoColor=03ff00&color=042a05)
 ![Adobe_Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-1d1f21?style=for-the-badge&logo=adobeillustrator&logoColor=03ff00&color=042a05)
 
+<br>
+
+<samp>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/julia-jespersdotter-hogman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julia-jespersdotter-hogman" height="30" width="40" /></a>
 </p>
+</samp>
 
