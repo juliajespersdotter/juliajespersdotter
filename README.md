@@ -1,15 +1,21 @@
+<p align="center">
+  <img src="https://github.com/juliajespersdotter/juliajespersdotter/blob/main/mother.gif" alt="animated" />
+</p>
 
-<h1 align="center">Hi 👋, I'm Julia Jespersdotter Högman</h1>
-<h3 align="center">A passionate web developer student based in Malmö</h3>
+
+<h1 align="center">Hi 👋, I'm Julia Jespersdotter Högman </h1>
+<h3 align="center"> A passionate web developer student based in Malmö</h3>
 
 - 📚 I'm interested in pursuing **fullstack/backend development**
 - ⌨️ I'm currently open to **internship opportunities**
 - 📫 Email me: **julia.jespersdotter@gmail.com**
+- <img src="https://github.com/juliajespersdotter/juliajespersdotter/blob/main/xenomorph.gif" alt="animated" width=20px> I love science fiction and horror games 
 
 <h3 align="left">🌱 I’m currently learning ...</h3>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![PHP](	https://img.shields.io/badge/PHP-35495E?style=for-the-badge&logo=php)
+
 
 ## Languages and Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-1d1f21?style=for-the-badge&logo=html5&logoColor=E34F26)
