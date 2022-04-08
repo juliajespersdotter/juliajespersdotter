@@ -1,14 +1,21 @@
-<p align="center">
-  <img src="https://github.com/juliajespersdotter/juliajespersdotter/blob/main/notcompute.gif" alt="animated" />
+
+<p align="center" class="bg-black">
+  <img src="https://github.com/juliajespersdotter/juliajespersdotter/blob/main/mother.webp" alt="animated" />
 </p>
 
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Julia+Jespersdotter++&font=Fira%20Code&center=true&width=440&height=45&color=03ff00&vCenter=true&size=22"></a>
+</p>
 
-<h1 align="center">Hi 👋, I'm Julia Jespersdotter Högman </h1>
-<h3 align="center"> A passionate web developer student based in Malmö</h3>
+<h3 align="center">A passionate web developer student based in Malmö</h3>
+<hr/>
+
+<img src="https://github.com/juliajespersdotter/juliajespersdotter/blob/main/xenomorph.gif" width="250" align="right" alt="animated"/>
 
 - 📚 I'm interested in pursuing **fullstack/backend development**
 - ⌨️ I'm currently open to **internship opportunities**
-- <img src="https://github.com/juliajespersdotter/juliajespersdotter/blob/main/xenomorph.gif" alt="animated" width=20px> I love science fiction and horror games 
+- 🎮 I love science fiction and horror games 
 - 📫 Email me: **julia.jespersdotter@gmail.com**
 
 
