@@ -13,12 +13,11 @@
 <hr/>
 </samp>
 
-<img src="https://github.com/juliajespersdotter/juliajespersdotter/blob/main/xenomorph.gif" width="250" align="right" alt="animated"/>
+<!--<img src="https://github.com/juliajespersdotter/juliajespersdotter/blob/main/xenomorph.gif" width="250" align="right" alt="animated"/>-->
 
 <samp>
 - 📚 I'm interested in pursuing <b>fullstack/backend development</b><br>
-- ⌨️ I'm currently open to <b>internship opportunities</b><br>
-- 🎮 I love science fiction and horror games<br>
+- ⌨️ I'm open to <b>internship opportunities</b><br>
 </samp>
   
  <br>
