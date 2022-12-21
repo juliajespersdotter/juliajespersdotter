@@ -26,10 +26,7 @@
 <h3 align="left">🌱 I’m currently learning ...</h3>
 
 
-![PHP](	https://img.shields.io/badge/PHP-35495E?style=for-the-badge&logo=php&logoColor=03ff00&color=042a05)
-![Drupal](https://img.shields.io/badge/Drupal-35495E?style=for-the-badge&logo=drupal&logoColor=03ff00&color=042a05)
-![sass](https://img.shields.io/badge/sass-35495E?style=for-the-badge&logo=sass&logoColor=03ff00&color=042a05)
-![twig](https://img.shields.io/badge/twig-35495E?style=for-the-badge&logo=twig&logoColor=03ff00&color=042a05)
+![C#](https://img.shields.io/badge/Csharp-35495E?style=for-the-badge&logo=csharp&logoColor=03ff00&color=042a05)
 
 </samp>
 
@@ -56,6 +53,10 @@
 ![firebase](https://img.shields.io/badge/-Firebase-1d1f21?style=for-the-badge&logo=firebase&logoColor=03ff00&color=042a05)
 ![mongodb](https://img.shields.io/badge/-Mongodb-1d1f21?style=for-the-badge&logo=mongodb&logoColor=03ff00&color=042a05)
 ![jira](https://img.shields.io/badge/-jira-1d1f21?style=for-the-badge&logo=jira&logoColor=03ff00&color=042a05)
+![Drupal](https://img.shields.io/badge/Drupal-35495E?style=for-the-badge&logo=drupal&logoColor=03ff00&color=042a05)
+![sass](https://img.shields.io/badge/sass-35495E?style=for-the-badge&logo=sass&logoColor=03ff00&color=042a05)
+
+
 
 
 
