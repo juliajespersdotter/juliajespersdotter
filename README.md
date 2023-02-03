@@ -9,15 +9,15 @@
 </p>
 
 <samp>
-<h3 align="center">A passionate web developer student based in Malmö</h3>
+<h3 align="center">A passionate developer student based in Malmö</h3>
 <hr/>
 </samp>
 
 <!--<img src="https://github.com/juliajespersdotter/juliajespersdotter/blob/main/xenomorph.gif" width="250" align="right" alt="animated"/>-->
 
 <samp>
-- 📚 I'm interested in pursuing <b>fullstack/backend development</b><br>
-- ⌨️ I'm open to <b>internship opportunities</b><br>
+- 📚 I'm interested in pursuing <b>frontend/fullstack development</b><br>
+- ⌨️ I'm open to <b>work opportunities</b><br>
 </samp>
   
  <br>
