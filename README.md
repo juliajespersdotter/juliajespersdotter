@@ -57,6 +57,7 @@
 ![sass](https://img.shields.io/badge/sass-35495E?style=for-the-badge&logo=sass&logoColor=03ff00&color=042a05)
 ![vs](https://img.shields.io/badge/vs-35495E?style=for-the-badge&logo=visualstudio&logoColor=03ff00&color=042a05)
 ![azure](https://img.shields.io/badge/azure-35495E?style=for-the-badge&logo=microsoftazure&logoColor=03ff00&color=042a05)
+![googlecloud](https://img.shields.io/badge/google-35495E?style=for-the-badge&logo=googlecloud&logoColor=03ff00&color=042a05)
 
 
 
