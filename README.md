@@ -9,7 +9,7 @@
 </p>
 
 <samp>
-<h3 align="center">A passionate developer student based in Malmö</h3>
+<h3 align="center">A passionate developer based in Malmö</h3>
 <hr/>
 </samp>
 
@@ -25,8 +25,7 @@
 <samp>
 <h3 align="left">🌱 I’m currently learning ...</h3>
 
-
-![C#](https://img.shields.io/badge/Csharp-35495E?style=for-the-badge&logo=csharp&logoColor=03ff00&color=042a05)
+![Golang](https://img.shields.io/badge/golang-35495E?style=for-the-badge&logo=go&logoColor=03ff00&color=042a05)
 
 </samp>
 
@@ -36,7 +35,8 @@
 <h3 align="left">💻 Languages and Tools</h3>
 <hr/>
 </samp>
-  
+
+![C#](https://img.shields.io/badge/Csharp-35495E?style=for-the-badge&logo=csharp&logoColor=03ff00&color=042a05)
 ![HTML5](https://img.shields.io/badge/-HTML5-1d1f21?style=for-the-badge&logo=HTML5&logoColor=03ff00&color=042a05)
 ![CSS3](https://img.shields.io/badge/-CSS3-1d1f21?style=for-the-badge&logo=css3&logoColor=03ff00&color=042a05)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1d1f21?style=for-the-badge&logo=javascript&logoColor=03ff00&color=042a05)
