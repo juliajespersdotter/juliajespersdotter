@@ -13,23 +13,7 @@
 <hr/>
 </samp>
 
-<!--<img src="https://github.com/juliajespersdotter/juliajespersdotter/blob/main/xenomorph.gif" width="250" align="right" alt="animated"/>-->
 
-<samp>
-- 📚 I'm interested in pursuing <b>frontend/fullstack development</b><br>
-- ⌨️ I'm open to <b>work opportunities</b><br>
-</samp>
-  
- <br>
-
-<samp>
-<h3 align="left">🌱 I’m currently learning ...</h3>
-
-![Golang](https://img.shields.io/badge/golang-35495E?style=for-the-badge&logo=go&logoColor=03ff00&color=042a05)
-
-</samp>
-
-<br>
   
 <samp>
 <h3 align="left">💻 Languages and Tools</h3>
